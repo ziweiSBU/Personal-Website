@@ -1,5 +1,6 @@
-baseURL = "https://example.com/"
+baseURL = "https://ziweiSBU.github.io/"
 
 [module]
 [module.hugoVersion]
 min = "0.77.0"
+publishDir = "ziweiSBU.github.io/"
